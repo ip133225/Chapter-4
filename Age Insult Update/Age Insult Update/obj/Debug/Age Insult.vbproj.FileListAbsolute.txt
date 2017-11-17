@@ -1,0 +1,10 @@
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\bin\Debug\Age Insult.exe.config
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\obj\Debug\Age_Insult.Form1.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\obj\Debug\Age_Insult.Resources.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\obj\Debug\Age Insult.vbproj.GenerateResource.Cache
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\bin\Debug\Age Insult.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\bin\Debug\Age Insult.pdb
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\bin\Debug\Age Insult.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\obj\Debug\Age Insult.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\obj\Debug\Age Insult.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Age Insult\obj\Debug\Age Insult.pdb
