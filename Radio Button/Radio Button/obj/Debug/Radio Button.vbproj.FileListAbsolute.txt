@@ -1,0 +1,14 @@
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\bin\Debug\Radio Button.exe.config
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\bin\Debug\Radio Button.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\bin\Debug\Radio Button.pdb
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\bin\Debug\Radio Button.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\obj\Debug\Radio_Button.Form1.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\obj\Debug\Radio_Button.Resources.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\obj\Debug\Radio Button.vbproj.GenerateResource.Cache
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\obj\Debug\Radio Button.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\obj\Debug\Radio Button.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Radio Button\obj\Debug\Radio Button.pdb
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Radio Button\Radio Button\bin\Debug\Radio Button.exe.config
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Radio Button\Radio Button\obj\Debug\Radio Button.exe
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Radio Button\Radio Button\obj\Debug\Radio Button.xml
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Radio Button\Radio Button\obj\Debug\Radio Button.pdb
