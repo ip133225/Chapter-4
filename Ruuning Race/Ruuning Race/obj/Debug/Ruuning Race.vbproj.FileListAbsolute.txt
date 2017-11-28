@@ -1,2 +1,6 @@
 C:\Users\ip133225\AppData\Local\Temporary Projects\Ruuning Race\bin\Debug\Ruuning Race.exe.config
 C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Ruuning Race\Ruuning Race\bin\Debug\Ruuning Race.exe.config
+C:\Users\ip133225\Desktop\Visual Basic\Chapter-4\Ruuning Race\Ruuning Race\bin\Debug\Ruuning Race.exe.config
+C:\Users\ip133225\Desktop\Visual Basic\Chapter-4\Ruuning Race\Ruuning Race\obj\Debug\Ruuning_Race.Form1.resources
+C:\Users\ip133225\Desktop\Visual Basic\Chapter-4\Ruuning Race\Ruuning Race\obj\Debug\Ruuning_Race.Resources.resources
+C:\Users\ip133225\Desktop\Visual Basic\Chapter-4\Ruuning Race\Ruuning Race\obj\Debug\Ruuning Race.vbproj.GenerateResource.Cache
