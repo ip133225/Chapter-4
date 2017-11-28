@@ -1,0 +1,21 @@
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\bin\Debug\Page 278 Larger and Smaller.exe.config
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\bin\Debug\Page 278 Larger and Smaller.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\bin\Debug\Page 278 Larger and Smaller.pdb
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\bin\Debug\Page 278 Larger and Smaller.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\obj\Debug\Page_278_Larger_and_Smaller.Form1.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\obj\Debug\Page_278_Larger_and_Smaller.Resources.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\obj\Debug\Page 278 Larger and Smaller.vbproj.GenerateResource.Cache
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\obj\Debug\Page 278 Larger and Smaller.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\obj\Debug\Page 278 Larger and Smaller.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Page 278 Larger and Smaller\obj\Debug\Page 278 Larger and Smaller.pdb
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\bin\Debug\Page 278 Larger and Smaller.exe.config
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\obj\Debug\Page 278 Larger and Smaller.exe
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\obj\Debug\Page 278 Larger and Smaller.xml
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\obj\Debug\Page 278 Larger and Smaller.pdb
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\bin\Debug\Page 278 Larger and Smaller.exe
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\bin\Debug\Page 278 Larger and Smaller.pdb
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\bin\Debug\Page 278 Larger and Smaller.xml
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\obj\Debug\Page 278 Larger and Smaller.vbprojResolveAssemblyReference.cache
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\obj\Debug\Page_278_Larger_and_Smaller.Form1.resources
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\obj\Debug\Page_278_Larger_and_Smaller.Resources.resources
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Page 278 Larger and Smaller\Page 278 Larger and Smaller\obj\Debug\Page 278 Larger and Smaller.vbproj.GenerateResource.Cache

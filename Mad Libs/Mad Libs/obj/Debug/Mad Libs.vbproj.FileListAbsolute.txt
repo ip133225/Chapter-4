@@ -1,0 +1,14 @@
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\bin\Debug\Mad Libs.exe.config
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\bin\Debug\Mad Libs.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\bin\Debug\Mad Libs.pdb
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\bin\Debug\Mad Libs.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\obj\Debug\Mad_Libs.madLibs.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\obj\Debug\Mad_Libs.Resources.resources
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\obj\Debug\Mad Libs.vbproj.GenerateResource.Cache
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\obj\Debug\Mad Libs.exe
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\obj\Debug\Mad Libs.xml
+C:\Users\ip133225\AppData\Local\Temporary Projects\Mad Libs\obj\Debug\Mad Libs.pdb
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Mad Libs\Mad Libs\bin\Debug\Mad Libs.exe.config
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Mad Libs\Mad Libs\obj\Debug\Mad Libs.exe
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Mad Libs\Mad Libs\obj\Debug\Mad Libs.xml
+C:\Users\ip133225\Desktop\Visual Basic\VbChapter4\Mad Libs\Mad Libs\obj\Debug\Mad Libs.pdb
