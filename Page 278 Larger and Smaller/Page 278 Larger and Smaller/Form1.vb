@@ -17,9 +17,9 @@
         n1 = Val(txtBox1.Text)
         n2 = Val(txtBox2.Text)
         If n1 > n2 Then
-            lblResult.Text = "The Greater Number Is" & n1
+            lblResult.Text = "The Greater Number Is " & n1
         Else
-            lblResult.Text = "The Greater Number Is" & n2
+            lblResult.Text = "The Greater Number Is " & n2
         End If
     End Sub
 
