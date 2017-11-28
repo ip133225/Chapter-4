@@ -25,8 +25,8 @@ Partial Class Form1
         Me.btnCompare = New System.Windows.Forms.Button()
         Me.btnExit = New System.Windows.Forms.Button()
         Me.lblResult = New System.Windows.Forms.Label()
-        Me.txtA = New System.Windows.Forms.TextBox()
-        Me.txtB = New System.Windows.Forms.TextBox()
+        Me.txtBox1 = New System.Windows.Forms.TextBox()
+        Me.txtBox2 = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label3 = New System.Windows.Forms.Label()
@@ -58,19 +58,19 @@ Partial Class Form1
         Me.lblResult.Size = New System.Drawing.Size(348, 23)
         Me.lblResult.TabIndex = 2
         '
-        'txtA
+        'txtBox1
         '
-        Me.txtA.Location = New System.Drawing.Point(63, 69)
-        Me.txtA.Name = "txtA"
-        Me.txtA.Size = New System.Drawing.Size(100, 20)
-        Me.txtA.TabIndex = 3
+        Me.txtBox1.Location = New System.Drawing.Point(63, 69)
+        Me.txtBox1.Name = "txtBox1"
+        Me.txtBox1.Size = New System.Drawing.Size(100, 20)
+        Me.txtBox1.TabIndex = 3
         '
-        'txtB
+        'txtBox2
         '
-        Me.txtB.Location = New System.Drawing.Point(218, 69)
-        Me.txtB.Name = "txtB"
-        Me.txtB.Size = New System.Drawing.Size(100, 20)
-        Me.txtB.TabIndex = 4
+        Me.txtBox2.Location = New System.Drawing.Point(218, 69)
+        Me.txtBox2.Name = "txtBox2"
+        Me.txtBox2.Size = New System.Drawing.Size(100, 20)
+        Me.txtBox2.TabIndex = 4
         '
         'Label1
         '
@@ -111,8 +111,8 @@ Partial Class Form1
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Controls.Add(Me.txtB)
-        Me.Controls.Add(Me.txtA)
+        Me.Controls.Add(Me.txtBox2)
+        Me.Controls.Add(Me.txtBox1)
         Me.Controls.Add(Me.lblResult)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.btnCompare)
@@ -125,8 +125,8 @@ Partial Class Form1
     Friend WithEvents btnCompare As System.Windows.Forms.Button
     Friend WithEvents btnExit As System.Windows.Forms.Button
     Friend WithEvents lblResult As System.Windows.Forms.Label
-    Friend WithEvents txtA As System.Windows.Forms.TextBox
-    Friend WithEvents txtB As System.Windows.Forms.TextBox
+    Friend WithEvents txtBox1 As System.Windows.Forms.TextBox
+    Friend WithEvents txtBox2 As System.Windows.Forms.TextBox
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents Label2 As System.Windows.Forms.Label
     Friend WithEvents Label3 As System.Windows.Forms.Label
