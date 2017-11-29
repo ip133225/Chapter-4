@@ -79,7 +79,7 @@ Partial Class Form1
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(348, 23)
         Me.Label1.TabIndex = 5
-        Me.Label1.Text = "Enter Two Intergers"
+        Me.Label1.Text = "Enter Two Integers"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Label2
